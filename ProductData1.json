@@ -1,0 +1,92 @@
+[
+   {
+      "Brand":"Nike",
+      "ProductName":"Air Force 1 White",
+      "GraphicName":"air-force1-white.png",
+      "CostPrice":30.99,
+      "MSRP":99.99,
+      "QtyOnHand":50,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season all-white air force 1."
+   },
+   {
+      "Brand":"Nike",
+      "ProductName":"Air Jordan Red-Black",
+      "GraphicName":"air-jordan-red-black.png",
+      "CostPrice":47.99,
+      "MSRP":149.99,
+      "QtyOnHand":50,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season red and black combo air jordan."
+   },
+   {
+      "Brand":"Nike",
+      "ProductName":"Dunk Low Green-Beige",
+      "GraphicName":"dunk-low-green-beige.png",
+      "CostPrice":36.99,
+      "MSRP":139.99,
+      "QtyOnHand":50,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season green and beige combo dunk low."
+   },
+   {
+      "Brand":"Adidas",
+      "ProductName":"Samba Black White",
+      "GraphicName":"samba-black-white.png",
+      "CostPrice":25.99,
+      "MSRP":109.99,
+      "QtyOnHand":30,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season black and white combo samba."
+   },
+   {
+      "Brand":"Adidas",
+      "ProductName":"Gazelle Green",
+      "GraphicName":"gazelle-green.png",
+      "CostPrice":36.99,
+      "MSRP":89.99,
+      "QtyOnHand":10,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season best seller green color gazelle."
+   },
+   {
+      "Brand":"Adidas",
+      "ProductName":"Gazelle Pink Brwon",
+      "GraphicName":"gazelle-pink-brown.png",
+      "CostPrice":36.99,
+      "MSRP":89.99,
+      "QtyOnHand":50,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season pink and brown combo gazelle."
+   },
+   {
+      "Brand":"NewBalance",
+      "ProductName":"574 Brown",
+      "GraphicName":"574-brown.png",
+      "CostPrice":32.99,
+      "MSRP":119.99,
+      "QtyOnHand":40,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season True brown with angora and sea salt 574."
+   },
+   {
+      "Brand":"NewBalance",
+      "ProductName":"990 Grey",
+      "GraphicName":"990-grey.png",
+      "CostPrice":79.99,
+      "MSRP":259.99,
+      "QtyOnHand":25,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season made in USA 990v6 grey."
+   },
+   {
+      "Brand":"NewBalance",
+      "ProductName":"610 Multi Color",
+      "GraphicName":"610-multi-color.png",
+      "CostPrice":67.99,
+      "MSRP":194.99,
+      "QtyOnHand":150,
+      "QtyOnBackOrder":10,
+      "Description":"This is the new S/S23 season Bodega x New Balance 610."
+   }
+]
